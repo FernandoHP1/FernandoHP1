@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Power BI, Excel, Python, Lean Six Sigma**
 
+- 📫 Know more about my professional backround in **https://linkedin.com/in/fernandohpereira1**
+
 - 📫 How to reach me **fernandohpereira270@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
