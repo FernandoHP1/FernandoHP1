@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
 <h3 align="center">A passionate Data Science professional from Brazil</h3>
 
-- 🔭 I’m currently working on **Gerdau**
+- 🔭 I’m currently working at **Gerdau, as a Manufacturing Engineer, foccused on BI projects**
 
 - 🌱 I’m currently learning **Python, SQL, DAX, M**
 
