@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data analysis projects**
 
-- 💬 Ask me about **Lean Six Sigma**
+- 💬 Ask me about **Power BI, Excel, Python, Lean Six Sigma**
 
 - 📫 How to reach me **fernandohpereira270@gmail.com**
 
